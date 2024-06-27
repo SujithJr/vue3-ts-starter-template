@@ -3,7 +3,7 @@
 ### Setup
 
 Visit this link for project folder explanation,
-[https://iamsujith.in/blog/vue-project-folder-structure](https://iamsujith.in/blog/vue-project-folder-structure)
+[https://iamsujith.in/blog/vue-3-typescript-starter-template](https://iamsujith.in/blog/vue-3-typescript-starter-template)
 
 Install dependencies using any of the following,
 
